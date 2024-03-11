@@ -1,7 +1,7 @@
 # Introdução à Aprendizagem de Máquina
 
-**Autor**: Prof. Dr. Leandro Seixas
-**Instituição**: Escola de Engenharia, Universidade Presbiteriana Mackenzie
+<p style="margin-top: 0; margin-bottom: 0;"><b>Autor</b>: Prof. Dr. Leandro Seixas<br><b>Instituição</b>: Escola de Engenharia, Universidade Presbiteriana Mackenzie</p>
+
 
 ## Lista de exemplos
 
