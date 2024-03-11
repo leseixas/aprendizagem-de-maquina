@@ -1,12 +1,16 @@
 # Introdução à Aprendizagem de Máquina
 
-<!-- 1. Regressão linear -->
+**Autor**: Prof. Dr. Leandro Seixas
+**Instituição**: Escola de Engenharia, Universidade Presbiteriana Mackenzie
+
+## Lista de exemplos
+
 1. Árvore de decisão: classificação
-    a. Exemplo 01
-    b. Exemplo 02
+    1. Exemplo 01
+    2. Exemplo 02
 2. Árvore de decisão: regressão
-    a. Exemplo 03
-    b. Exemplo 04
+    1. Exemplo 03
+    2. Exemplo 04
 3. Floresta aleatória: classificação
 4. Floresta aleatória: regressão
 5. Gradient boosting: classificação
